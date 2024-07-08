@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">visuda</string>
+    <string name="beranda">Beranda</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="notifikasi">Notifikasi</string>
+    <string name="profil">Profil</string>
+</resources>
