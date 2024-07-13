@@ -127,7 +127,7 @@ fun DaftarPage(navController: NavHostController) {
                     item {
                         Column {
                             Text(
-                                text = "NIK",
+                                text = "Email",
                                 style = TextStyle(
                                     color = Color.Black,
                                     fontSize = 16.sp,
@@ -140,7 +140,7 @@ fun DaftarPage(navController: NavHostController) {
                             Spacer(modifier = Modifier.height(10.dp))
 
                             TextField(
-                                placeholder = { Text(text = "Masukkan NIK", style = TextStyle(color = Color.Gray)) },
+                                placeholder = { Text(text = "Masukkan Email", style = TextStyle(color = Color.Gray)) },
                                 value = NIK.value,
                                 onValueChange = { NIK.value = it },
                                 modifier = Modifier

@@ -113,7 +113,7 @@ fun TentangKami(navController: NavHostController) {
                             .align(Alignment.CenterHorizontally)
                     )
                     Text(
-                        text = "Visi: pHAPP, Solusi Pintar Pengukuran pH",
+                        text = "Visi: Water Monitoring, Solusi Pintar Pengukuran pH",
                         style = TextStyle(
                             color = Color.Black,
                             fontSize = 18.sp,
@@ -142,7 +142,7 @@ fun TentangKami(navController: NavHostController) {
                     )
                     Spacer(modifier = Modifier.height(8.dp))
                     Text(
-                        text = "pHAPP merupakan platform yang dapat membantu kita dalam mengakses informasi secara rinci dan juga detail perihal informasi informasi tentang pH yang kita dapatkan secara realtime.",
+                        text = "Water Monitoring merupakan platform yang dapat membantu kita dalam mengakses informasi secara rinci dan juga detail perihal informasi informasi tentang pH yang kita dapatkan secara realtime.",
                         style = TextStyle(
                             color = Color.Black,
                             fontSize = 16.sp,

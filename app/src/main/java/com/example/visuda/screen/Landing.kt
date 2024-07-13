@@ -50,7 +50,7 @@ fun LandingPage(navController: NavHostController) {
 
 
             Text(
-                text = "pHAPP",
+                text = "Water Monitoring",
                 fontSize = 32.sp,
                 fontWeight = FontWeight.Bold,
                 color = Color.White
@@ -58,7 +58,7 @@ fun LandingPage(navController: NavHostController) {
 
 
             Text(
-                text = "Selamat Datang di Aplikasi pHAPP",
+                text = "Selamat Datang di Aplikasi Water Monitoring",
                 fontSize = 16.sp,
                 color = Color.White,
                 modifier = Modifier.padding(vertical = 8.dp)
